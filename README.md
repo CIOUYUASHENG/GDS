@@ -81,3 +81,10 @@
 | First | Second | Third|
 |:---- |:------:|------:|
 |cell 1 | cell 2|number cell 3|
+|cell 1 | cell 2|number cell 3|
+|cell 1 | cell 2|number cell 3|
+
+:+1:
+:smile:
+
+:sparkles:|
